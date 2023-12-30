@@ -1,0 +1,1 @@
+# HEDIS -- URI Appropriate Treatment for Upper Respiratory Infection (https://www.ncqa.org/wp-content/uploads/2022/07/HEDIS-MY-2023-Measure-Description.pdf)
